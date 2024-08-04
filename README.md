@@ -1,4 +1,7 @@
 A simple yet useful workout management mern app.
 
-# Features
-- 
+## Features
+- Create workouts
+- Update and delete Workout
+- Manage workout routines
+
