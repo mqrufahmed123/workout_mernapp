@@ -1,1 +1,4 @@
-  A simple yet useful workout management mern app.
+A simple yet useful workout management mern app.
+
+# Features
+- 
