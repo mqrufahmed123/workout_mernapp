@@ -1,3 +1,4 @@
+# Workout mangement App
 A simple yet useful workout management mern app.
 
 ## Features
